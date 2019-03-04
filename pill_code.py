@@ -1,8 +1,8 @@
 from itertools import izip
 import Image
  
-i1 = Image.open("/home/swarnalatha/Desktop/fruits-360/test-multiple_fruits/apple_pear.jpg")
-i2 = Image.open("/home/swarnalatha/Desktop/fruits-360/test-multiple_fruits/apples_pears.jpg")
+i1 = Image.open("/home/swarnalatha/Desktop/pics/white_cuts.jpeg")
+i2 = Image.open("/home/swarnalatha/Desktop/pics/white_cuts_edit.jpeg")
 assert i1.mode == i2.mode, "Different kinds of images."
 assert i1.size == i2.size, "Different sizes."
  

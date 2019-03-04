@@ -1,0 +1,127 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+<head>
+	<title> DynamicPricing </title>
+	<style>
+	.one {
+		border: 2px solid black;
+		background-color: rgba(0,0,0,0.5);
+		outline: black solid 10px;
+		margin: 10px;  
+		padding: 20px;
+		text-align: center;
+	}
+
+	.center {
+		position: absolute;
+		left: 0;
+		top: 50%;
+		width: 100%;
+		text-align: center;
+		font-size: 18px;
+	}
+
+
+</style>
+<link rel="stylesheet" href="static/css/Dyna.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lobster">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+</head>
+<body bgcolor="black" style="font-family:Lucida Sans Unicode;">
+
+	<nav class="nav">
+		<ul class="ul">
+			<li> <a href="" style="font-family:kelvetica;"> DynamicPricing </a> </li>
+		</ul>
+	</nav>
+
+
+	<div class="slideshow-container">
+		<div class="mySlides fade">
+			<img src="static/img/img1.jpg" style="width:100%">
+			<div class="text"></div>
+		</div>
+		<div class="mySlides fade">
+			<img src="static/img/img9.jpeg" style="width:100%">
+			<div class="text"></div>
+		</div>
+		<div class="mySlides fade">
+			<img src="static/img/img4.jpg" style="width:100%">
+			<div class="text"></div>
+		</div>
+
+		<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+		<a class="next" onclick="plusSlides(1)">&#10095;</a>
+	</div>
+	<div style="text-align:center">
+		<span class="dot"></span> 
+		<span class="dot"></span> 
+		<span class="dot"></span> 
+		<span class="dot"></span> 
+	</div>
+
+	<script>
+		var slideIndex = 0;
+		showSlides();
+
+		function showSlides() {
+			var i;
+			var slides = document.getElementsByClassName("mySlides");
+			var dots = document.getElementsByClassName("dot");
+			for (i = 0; i < slides.length; i++) {
+				slides[i].style.display = "none";  
+			}
+			slideIndex++;
+			if (slideIndex> slides.length) {slideIndex = 1}    
+				for (i = 0; i < dots.length; i++) {
+					dots[i].className = dots[i].className.replace(" active", "");
+				}
+				slides[slideIndex-1].style.display = "block";  
+				dots[slideIndex-1].className += " active";
+    setTimeout(showSlides, 5000); // Change image every 2 seconds
+}
+
+function submitForm() {
+	var formData = new FormData(document.forms.namedItem("form1"));
+	var e = document.getElementById("categories");
+	var selectedText = e.options[e.selectedIndex].value;
+	formData.append("category", selectedText);
+	console.log(Array.from(formData));
+	var xhr = new XMLHttpRequest();
+	xhr.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+       // Typical action to be performed when the document is ready:
+       		alert(this.responseText);
+	    }
+	};
+	// Add any event handlers here...
+	xhr.open('POST', '/upload', true);
+	xhr.send(formData);
+};
+</script>
+
+
+<div class="center">
+
+
+	
+	<form name="form1" class="one" method = "POST" 
+	enctype = "multipart/form-data" style="color: #777;background-color: #aed6f1 " >
+	<h2 class ="heading"><b> Upload your product details here and we will price it for you!</b> </h2>
+	<input type = "file" name = "file" />
+	<select id="categories">
+		<option value="volvo" selected>Volvo</option>
+		<option value="saab">Saab</option>
+		<option value="fiat">Fiat</option>
+		<option value="audi">Audi</option>
+	</select> 
+	<button type="button" onclick="submitForm();">Upload</button>
+</form>
+</div>
+
+</body>
+
+<script type="text/javascript" src="static/js/jquery.min.js"/>
+</html>	

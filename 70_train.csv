@@ -1,0 +1,432 @@
+train_id,name,item_condition_id,category_name,brand_name,price,shipping,item_description,Supply_demand,Image
+1,Zoot Tt Trainer 2.0   Round Toe Synthetic  Sneakers,1,"Shoes,Women, Wedges",Zoot,71.99,0,No Description yet,123.98,0
+2,Zoot Tt Trainer 2.0   Round Toe Synthetic  Sneakers,2,"Shoes,Women, Wedges",Zoot,250,0,new with tags,480,0
+3,Zoot Tt Trainer 2.0   Round Toe Synthetic  Sneakers,3,"Shoes,Women, Wedges",Zoot,75.99,0,new with box,131.98,0
+4,Zoot Tt Trainer 2.0   Round Toe Synthetic  Sneakers,1,"Shoes,Women, Wedges",Zoot,79.98,0,"Soft sole,walking support",139.96,0
+5,Wild Pair Colfax Women  Peep-toe Synthetic Brown Ankle Boot,2,"Shoes,Women, Wedges",Wild Pair,26.98,1,new with box,33.96,0
+6,Wild Pair Colfax Women  Peep-toe Synthetic Brown Ankle Boot,3,"Shoes,Women, Wedges",Wild Pair,15.99,1,new with tags,11.98,0
+7,Wild Pair Colfax Women  Peep-toe Synthetic Brown Ankle Boot,1,"Shoes,Women, Wedges",Wild Pair,90,1,high heel great style,160,0
+8,Sutton Studio Women's 100 Cashmere Blazer Jacket,1,"Shoes,Women, Wedges",Sutton Studio,318,1,good condition,616,0
+9,Sutton Studio Women's 100 Cashmere Blazer Jacket,1,"Shoes,Women, Wedges",Sutton Studio,166.99,1,high heel great style,313.98,0
+10,Laleela.com Women Supersoft Cotton Coverup Batik Kaftan Dress Plus Nightgown Purple,4,"Shoes,Women, Flats",LaLeela.com,27.98,1,No Description yet,35.96,0
+11,Laleela.com Women Supersoft Cotton Coverup Batik Kaftan Dress Plus Nightgown Purple,4,"Shoes,Women, Flats",LaLeela.com,39.99,1,new with box,59.98,0
+12,Reebok Skyscape Chase Women Us 9.5 Black Sneakers,1,"Shoes,Women, Flats",Reebok,22.99,1,new,25.98,0
+13,Reebok Skyscape Chase Women Us 9.5 Black Sneakers,1,"Shoes,Women, Flats",Reebok,23.99,1,new,27.98,0
+14,Reebok Skyscape Chase Women Us 9.5 Black Sneakers,3,"Shoes,Women, Flats",Reebok,19.99,1,new,19.98,0
+15,Reebok Skyscape Chase Women Us 9.5 Black Sneakers,1,"Shoes,Women, Flats",Reebok,22.99,1,new,25.98,0
+16,Reebok Skyscape Chase Women Us 9.5 Black Sneakers,1,"Shoes,Women, Flats",Reebok,75,1,new,130,0
+17,Reebok Skyscape Chase Women Us 9.5 Black Sneakers,1,"Shoes,Women, Flats",Reebok,29.99,1,new,39.98,0
+18,Reebok Skyscape Chase Women Us 9.5 Black Sneakers,2,"Shoes,Women, Flats",Reebok,50.99,1,new,81.98,0
+19,Reebok Skyscape Chase Women Us 9.5 Black Sneakers,1,"Shoes,Women, Flats",Reebok,64.95,1,new,109.9,0
+20,Jessica Simpson Cainn Women  Round Toe Leather Tan Bootie,1,"Shoes,Women, Flats",Jessica Simpson,69.98,1,comfortable,119.96,0
+21,"Women's Highest Heel Shoes 4 Classic Plain Pump - Gold Metallic Pu""",1,"Shoes,Women, Heels",The Highest Heel,45.54,1,new with box,71.08,0
+22,Qupid Penelope 04   Open Toe Synthetic  Platform Heel,1,"Shoes,Women, Heels",Qupid,23.98,1,new with tags,27.96,0
+23,Qupid Penelope 04   Open Toe Synthetic  Platform Heel,4,"Shoes,Women, Heels",Qupid,1.99,1,daily wear,-16.02,0
+24,Qupid Penelope 04   Open Toe Synthetic  Platform Heel,1,"Shoes,Women, Heels",Qupid,45,1,office wear,70,0
+25,Qupid Penelope 04   Open Toe Synthetic  Platform Heel,1,"Shoes,Women, Heels",Qupid,11.99,1,new with box,3.98,0
+26,Alfani Syssy Women Us 9 Red Mary Janes,2,"Shoes,Women, Heels",Alfani,18.99,1,new with tags,17.98,0
+27,Alfani Syssy Women Us 9 Red Mary Janes,1,"Shoes,Women, Heels",Alfani,79,1,fashion at its best comfort,138,0
+28,Alfani Syssy Women Us 9 Red Mary Janes,1,"Shoes,Women, Heels",Alfani,26.99,1,new,33.98,0
+29,"Me Too Womens Lilyana Leather Ballet Flat Shoe, Pewter Metallic, Us 7.5",1,"Shoes,Women, Heels",Me Too,34.99,1,new with box,49.98,0
+30,"Me Too Womens Lilyana Leather Ballet Flat Shoe, Pewter Metallic, Us 7.5",1,"Shoes,Women, Heels",Me Too,79,1,new with tags,138,0
+31,New Balance Pace Women D Round Toe Synthetic Blue Running Shoe,3,"Shoes,Women, Heels",New Balance,42.99,1,No Description yet,65.98,0
+32,New Balance Pace Women D Round Toe Synthetic Blue Running Shoe,1,"Shoes,Women, Heels",New Balance,110,1,new with tags,200,0
+33,Laleela.com Women Supersoft Cotton Coverup Batik Kaftan Dress Plus Nightgown Purple,1,"Shoes,Women, Heels",Under Armour,40.21,1,new with box,60.42,0
+34,Bruno Magli Ballet Flats Dina Patent Leather Black Womens Shoes Sz 7 New,1,"Shoes,Women, Stilletos",Bruno Magli,169.99,1,"Soft sole,walking support",319.98,0
+35,Nine West Breeze Women  Open Toe Canvas  Wedge Sandal,1,"Shoes,Women, Stilletos",Nine West,13.99,1,new with box,7.98,0
+36,Nine West Breeze Women  Open Toe Canvas  Wedge Sandal,1,"Shoes,Women, Stilletos",Nine West,8.99,1,new with tags,-2.02,0
+37,Nine West Breeze Women  Open Toe Canvas  Wedge Sandal,4,"Shoes,Women, Stilletos",Nine West,89,1,high heel great style,158,0
+38,Celebrity Pink Jeans Juniors High-rise Cuffed Casual Shorts,1,"Shoes,Women, Stilletos",Celebrity Pink Jeans,39,1,good condition,58,0
+39,Celebrity Pink Jeans Juniors High-rise Cuffed Casual Shorts,1,"Shoes,Women, Stilletos",Celebrity Pink Jeans,20.99,1,high heel great style,21.98,0
+40,Celebrity Pink Jeans Juniors High-rise Cuffed Casual Shorts,1,"Shoes,Women, Stilletos",Celebrity Pink Jeans,15.98,1,No Description yet,11.96,0
+41,Resin Longhorn Handgun and Flag Expandable Bangle Bracelet,4,"Shoes,Women, Stilletos",Cheer Bunny,29.99,1,new with box,39.98,0
+42,Resin Longhorn Handgun and Flag Expandable Bangle Bracelet,1,"Shoes,Women, Stilletos",Cheer Bunny,29.95,1,new with tags,39.9,0
+43,"Sneed- Customizable Women's Dance Shoes Latin/salsa Satin Customized Heel Black/blue/yellow/pink/purple/red/white/fuchsia , Black-us9.5-10 / Eu41 / Uk7.5-8 / Cn42 , Black-us9.5-10 / Eu41 / Uk7.5-8 / Cn42",1,"Shoes,Women, Stilletos",Easy Spirit,88,1,new with box,156,0
+44,Easy Spirit Abide Women  Moc Toe Patent Leather Red Loafer,1,"Shoes,Women, Floaters",Easy Spirit,70,1,new with box,120,0
+45,Easy Spirit Abide Women  Moc Toe Patent Leather Red Loafer,3,"Shoes,Women, Floaters",Easy Spirit,15.99,1,new with tags,11.98,0
+46,"Touch Ups Womens Anneka Sandal,gold,8.5 M",1,"Shoes,Women, Floaters",Touch Ups,41.7,1,No Description yet,63.4,0
+47,"Touch Ups Womens Anneka Sandal,gold,8.5 M",1,"Shoes,Women, Floaters",Touch Ups,42.32,1,new with box,64.64,0
+48,"Touch Ups Womens Anneka Sandal,gold,8.5 M",2,"Shoes,Women, Floaters",Touch Ups,41.7,1,new with tags,63.4,0
+49,"Touch Ups Womens Anneka Sandal,gold,8.5 M",1,"Shoes,Women, Floaters",Touch Ups,57.27,1,high heel great style,94.54,0
+50,"Cat By Caterpillar Colorado Flowers Womens Boots Us 9.5 M, Eu 40.5",1,"Shoes,Women, Floaters",Caterpillar,67.19,1,comfortable,114.38,0
+51,"Dearfoams Size Large Womens Cozie Knit Slipper, Black Multi",1,"Shoes,Women, Floaters",Dearfoams,20,1,new with box,20,0
+52,"Dearfoams Size Large Womens Cozie Knit Slipper, Black Multi",1,"Shoes,Women, Floaters",Dearfoams,7.77,1,new with tags,-4.46,0
+53,J. Renee Neda Women  Open Toe Synthetic  Wedge Heel,1,"Shoes,Women, Floaters",J. Renee,80,1,daily wear,140,0
+54,J. Renee Neda Women  Open Toe Synthetic  Wedge Heel,1,"Shoes,Women, Wedges",J. Renee,15.99,1,office wear,11.98,0
+55,Bar Iii Nerisa Women  Open Toe Synthetic  Platform Sandal,1,"Shoes,Women, Wedges",Bar III,110,1,new with box,200,0
+56,Bar Iii Nerisa Women  Open Toe Synthetic  Platform Sandal,1,"Shoes,Women, Wedges",Bar III,61.98,1,new with tags,103.96,0
+57,Bar Iii Nerisa Women  Open Toe Synthetic  Platform Sandal,2,"Shoes,Women, Wedges",Bar III,63.99,1,fashion at its best comfort,107.98,0
+58,Karmas Canvas Y Shape Drop Bar Pendant Necklace Set,1,"Shoes,Women, Wedges",Karmas Canvas,29.72,1,new,39.44,0
+59,Karmas Canvas Y Shape Drop Bar Pendant Necklace Set,1,"Shoes,Women, Sandals",Karmas Canvas,40.41,1,new with box,60.82,0
+60,Karmas Canvas Y Shape Drop Bar Pendant Necklace Set,1,"Shoes,Women, Sandals",Karmas Canvas,50.92,1,new with tags,81.84,0
+61,Boulet Western Boots Womens Cutter Heel Pull Tabs Puma Madera 5231,3,"Shoes,Women, Sandals",Boulet,266,1,No Description yet,512,0
+62,Happy Feet Womens and Mens Animal Slippers,1,"Shoes,Women, Sandals",Comfy Feet,30,1,new with tags,40,0
+63,Allegra K Women's Printed Slip On Padded Insole Pointed Toe Flats Black (size 8),1,"Shoes,Women, Sandals",Allegra K,28.76,1,new with box,37.52,0
+64,Allegra K Women's Printed Slip On Padded Insole Pointed Toe Flats Black (size 8),1,"Shoes,Women, Sandals",Allegra K,57.99,1,"Soft sole,walking support",95.98,0
+65,Landau Pants 2xl Unisex Scrub Pant Tall - Ceil Blue,4,"Shoes,Women, Sandals",Landau,20.95,1,new with box,21.9,0
+66,Allegra K Women's Peep Toe Slip On Stacked Heel Slingback Mules Brown (size 7),1,"Shoes,Women, Sandals",Allegra K,34.79,1,new with tags,49.58,0
+67,Allegra K Women's Peep Toe Slip On Stacked Heel Slingback Mules Brown (size 7),1,"Shoes,Women, Sandals",Allegra K,69.99,1,high heel great style,119.98,0
+68,Fiel Neptune Women Us 7.5 Gray Gladiator Sandal,1,"Shoes,Women, Sandals",FIEL,210,1,good condition,400,0
+69,Fiel Neptune Women Us 7.5 Gray Gladiator Sandal,1,"Shoes,Women, Sandals",FIEL,19.99,1,high heel great style,19.98,0
+70,Not Your Daughter's Jeans Plus Denim Lift Tuck Straight Leg Jeans,1,"Shoes,Women, Sandals",Not Your Daughter's Jeans,140,1,No Description yet,260,0
+71,Sperry Top-sider Women's Bluefish 2 Eye Tan Boat Shoe,1,"Shoes,Women, FlipFlops",Sperry,79.97,1,No Description yet,139.94,0
+72,Sperry Top-sider Women's Bluefish 2 Eye Tan Boat Shoe,1,"Shoes,Women, FlipFlops",Sperry,89.95,1,new with tags,159.9,0
+73,Sperry Top-sider Women's Bluefish 2 Eye Tan Boat Shoe,1,"Shoes,Women, FlipFlops",Sperry,84.95,1,new with box,149.9,0
+74,Sperry Top-sider Women's Bluefish 2 Eye Tan Boat Shoe,1,"Shoes,Women, FlipFlops",Sperry,90,1,"Soft sole,walking support",160,0
+75,Sperry Top-sider Women's Bluefish 2 Eye Tan Boat Shoe,1,"Shoes,Women, FlipFlops",Sperry,59.99,1,new with box,99.98,0
+76,Patagonia 4550 Womens Adour Multi Low-rise Swim Bottom Separates Xs Bhfo,3,"Shoes,Women, FlipFlops",Patagonia,2.79,1,new with tags,-14.42,0
+77,Patagonia 4550 Womens Adour Multi Low-rise Swim Bottom Separates Xs Bhfo,3,"Shoes,Women, FlipFlops",Patagonia,5.5,1,high heel great style,-9,0
+78,Patagonia 4550 Womens Adour Multi Low-rise Swim Bottom Separates Xs Bhfo,3,"Shoes,Women, FlipFlops",Patagonia,1.65,1,good condition,-16.7,0
+79,Patagonia 4550 Womens Adour Multi Low-rise Swim Bottom Separates Xs Bhfo,3,"Shoes,Women, FlipFlops",Patagonia,1.55,1,high heel great style,-16.9,0
+80,Patagonia 4550 Womens Adour Multi Low-rise Swim Bottom Separates Xs Bhfo,3,"Shoes,Women, FlipFlops",Patagonia,2.85,1,No Description yet,-14.3,0
+81,Patagonia 4550 Womens Adour Multi Low-rise Swim Bottom Separates Xs Bhfo,3,"Shoes,Women, Boots",Patagonia,0.99,1,new with box,-18.02,0
+82,Patagonia 4550 Womens Adour Multi Low-rise Swim Bottom Separates Xs Bhfo,3,"Shoes,Women, Boots",Patagonia,1.25,1,new,-17.5,0
+83,Patagonia 4550 Womens Adour Multi Low-rise Swim Bottom Separates Xs Bhfo,3,"Shoes,Women, Boots",Patagonia,2.25,1,new,-15.5,0
+84,Patagonia 4550 Womens Adour Multi Low-rise Swim Bottom Separates Xs Bhfo,3,"Shoes,Women, Boots",Patagonia,1.04,1,new,-17.92,0
+85,Patagonia 4550 Womens Adour Multi Low-rise Swim Bottom Separates Xs Bhfo,3,"Shoes,Women, Boots",Patagonia,6.75,1,new,-6.5,0
+86,Toms Women's Lunata Lace-up Casual Shoe,1,"Shoes,Women, Boots",TOMS,40.09,1,new,60.18,0
+87,Joy & Mario Becky Women  Peep-toe Canvas  Espadrille,1,"Shoes,Women, Boots",Joy & Mario,17.99,1,new,15.98,0
+88,Michael Kors Mackenzie Platform Wedge Sandals Luggage,1,"Shoes,Women, Boots",MICHAEL Michael Kors,94.74,1,new,169.48,0
+89,"Simplicity Winter Boot Covers In Multicolor Stripes Knit Pattern, Grey Black",1,"Shoes,Women, Boots",Simplicity,7.99,1,new,-4.02,0
+90,Born Karmina Women  Round Toe Leather  Flats,1,"Shoes,Women, Boots",Born,88.85,1,comfortable,157.7,0
+91,"Sneed- Women's/kids' Dance Shoes Latin Leatherette/paillette Flat Heel Blue/pink/silver/gold , Blue-us1 / Eu32 / Uk13 Little Kids , Blue-us1 / Eu32 / Uk13 Little Kids",1,"Shoes,Women, Casuals",Sneed,70,1,new with box,120,0
+92,Easy Spirit Traveltime   Round Toe Suede  Mules,5,"Shoes,Women, Casuals",Easy Spirit,34.99,1,new with tags,49.98,0
+93,Easy Spirit Traveltime   Round Toe Suede  Mules,1,"Shoes,Women, Casuals",Easy Spirit,59,1,daily wear,98,0
+94,Nike Womens Air Huarache Run University Red/maroon-white 634835-605,1,"Shoes,Women, Casuals",Nike,129,1,office wear,238,0
+95,Azura Women Paula Sandals,1,"Shoes,Women, Casuals",Azura,75,1,new with box,130,0
+96,Nike Zoom Pegasus 31 Women's Shoes Size,1,"Shoes,Women, Casuals",Nike,80.95,1,new with tags,141.9,0
+97,Nike Zoom Pegasus 31 Women's Shoes Size,1,"Shoes,Women, Casuals",Nike,80.95,1,fashion at its best comfort,141.9,0
+98,Toms Women's Lunata Lace-up Casual Shoe,1,"Shoes,Women, Casuals",TOMS,75.46,1,new,130.92,0
+99,Toms Women's Lunata Lace-up Casual Shoe,1,"Shoes,Women, Casuals",TOMS,78.27,1,new with box,136.54,0
+100,Liz Claiborne Helena   Open-toe Synthetic  Slingback Heel,1,"Shoes,Women, Casuals",Liz Claiborne,50,1,new with tags,80,0
+101,Liz Claiborne Helena   Open-toe Synthetic  Slingback Heel,1,"Shoes,Women, Casuals",Liz Claiborne,16.99,1,No Description yet,13.98,0
+102,Journee Collection Lisa Women  Round Toe Synthetic Brown Mary Janes,1,"Shoes,Women, Casuals",Journee Collection,754.8,1,new with tags,1489.6,0
+103,Journee Collection Lisa Women  Round Toe Synthetic Brown Mary Janes,1,"Shoes,Women, Sneakers",Journee Collection,16.98,1,new with box,13.96,0
+104,Journee Collection Lisa Women  Round Toe Synthetic Brown Mary Janes,1,"Shoes,Women, Sneakers",Journee Collection,60,1,"Soft sole,walking support",100,0
+105,Journee Collection Lisa Women  Round Toe Synthetic Brown Mary Janes,1,"Shoes,Women, Sneakers",Journee Collection,6.99,1,new with box,-6.02,0
+106,Journee Collection Lisa Women  Round Toe Synthetic Brown Mary Janes,1,"Shoes,Women, Sneakers",Journee Collection,5.99,1,new with tags,-8.02,0
+107,Women's Fergalicious Cally Tall Boot,1,"Shoes,Women, Sneakers",Fergalicious,89.95,1,high heel great style,159.9,0
+108,Shoes of Soul Women's Fringe 2 Buckle Sandal,1,"Shoes,Women, Sneakers",SHOES OF SOUL,11.9,1,good condition,3.8,0
+109,Shoes of Soul Women's Fringe 2 Buckle Sandal,1,"Shoes,Women, Sneakers",SHOES OF SOUL,29.99,1,high heel great style,39.98,0
+110,Under Armour Micro G Mantis Nm Women's Shoes Size,4,"Shoes,Women, Sneakers",Under Armour,51.19,1,No Description yet,82.38,0
+111,Under Armour Micro G Mantis Nm Women's Shoes Size,1,"Shoes,Women, Sneakers",Under Armour,51.19,1,new with box,82.38,0
+112,Womens Via Spiga Chera Pointed-toe Ankle Strap Pump Heels - Champagne,1,"Shoes,Women, Sneakers",Via Spiga,225,1,new with tags,430,0
+113,Lauren Ralph Lauren Women's Quinta Boot,1,"Shoes,Women, Sneakers",Ralph Lauren,59.6,1,new with box,99.2,0
+114,Lauren Ralph Lauren Women's Quinta Boot,1,"Shoes,Women, Sneakers",Ralph Lauren,68.59,1,new with box,117.18,0
+115,Girl Soft Canvas Elastic Cross Bands Flat Ballet Dancing Shoes Pink Size 34 Pair,2,"Shoes,Women, Boots",Unique Bargains,10.8,1,new with tags,1.6,0
+116,Girl Soft Canvas Elastic Cross Bands Flat Ballet Dancing Shoes Pink Size 34 Pair,1,"Shoes,Women, Ballet",Unique Bargains,21.99,1,No Description yet,23.98,0
+117,Spirit Moda Fb36 Women's Lace Up Criss Cross Flats One and Half A Size Bigger,1,"Shoes,Women, Ballet",Spirit Moda,16.09,1,new with box,12.18,0
+118,Bright and Bold Neon Yellow Sandals With 7 Inch Heels Women's Platform Heels,1,"Shoes,Women, Ballet",SummitFashions,82.98,1,new with tags,145.96,0
+119,Bright and Bold Neon Yellow Sandals With 7 Inch Heels Women's Platform Heels,1,"Shoes,Women, Ballet",SummitFashions,71.99,1,high heel great style,123.98,0
+120,Franco Sarto Ulla Women  Square Toe Synthetic  Loafer,2,"Shoes,Women, Ballet",Franco Sarto,10.99,1,comfortable,1.98,0
+121,Franco Sarto Ulla Women  Square Toe Synthetic  Loafer,1,"Shoes,Women, Ballet",Franco Sarto,100,1,new with box,180,0
+122,Sporto Dede Women  Round Toe Leather Brown Rain Boot,1,"Shoes,Women, Ballet",Sporto,48.99,1,new with tags,77.98,1
+123,Spirit Moda Fb36 Women's Lace Up Criss Cross Flats One and Half A Size Bigger,1,"Shoes,Women, Ballet",Spirit Moda,16.09,1,daily wear,12.18,1
+124,Bright and Bold Neon Yellow Sandals With 7 Inch Heels Women's Platform Heels,1,"Shoes,Women, Ballet",SummitFashions,82.98,1,office wear,145.96,1
+125,Bright and Bold Neon Yellow Sandals With 7 Inch Heels Women's Platform Heels,1,"Shoes,Women, Ballet",SummitFashions,71.99,1,new with box,123.98,1
+126,Franco Sarto Ulla Women  Square Toe Synthetic  Loafer,1,"Shoes,Women, Wedges",Franco Sarto,10.99,1,new with tags,1.98,1
+127,Franco Sarto Ulla Women  Square Toe Synthetic  Loafer,1,"Shoes,Women, Wedges",Franco Sarto,100,1,fashion at its best comfort,180,1
+128,Sporto Dede Women  Round Toe Leather Brown Rain Boot,1,"Shoes,Women, Wedges",Sporto,48.99,1,new,77.98,1
+129,Juil Womens 'copenhagen' Clog Shoe,1,"Shoes,Women, Wedges",Juil,165,1,new with box,310,1
+130,Juil Womens 'copenhagen' Clog Shoe,1,"Shoes,Women, Wedges",Juil,39.99,1,new with tags,59.98,1
+131,Juil Womens 'copenhagen' Clog Shoe,1,"Shoes,Women, Wedges",Juil,39.97,1,No Description yet,59.94,1
+132,Mia Rama Women  Open Toe Canvas  Sandals,1,"Shoes,Women, Wedges",Mia,80,1,new with tags,140,1
+133,Mia Rama Women  Open Toe Canvas  Sandals,1,"Shoes,Women, Wedges",Mia,16.99,1,new with box,13.98,1
+134,Mia Rama Women  Open Toe Canvas  Sandals,1,"Shoes,Women, Wedges",Mia,24.99,1,"Soft sole,walking support",29.98,1
+135,G Antini Ladies Translucent Slim High Heel Pointed Toe Pumps (size 7.5),1,"Shoes,Women, Flats",Unique Bargains,30.26,1,new with box,40.52,1
+136,G Antini Ladies Translucent Slim High Heel Pointed Toe Pumps (size 7.5),1,"Shoes,Women, Flats",Unique Bargains,60.99,1,new with tags,101.98,1
+137,Womens Ib Tornado Boots,1,"Shoes,Women, Flats",IB Non-Slip,39.99,1,high heel great style,59.98,1
+138,Womens Ib Tornado Boots,1,"Shoes,Women, Flats",IB Non-Slip,39.99,1,good condition,59.98,1
+139,Womens Ib Tornado Boots,1,"Shoes,Women, Flats",IB Non-Slip,39.99,1,high heel great style,59.98,1
+140,Kids' Dawgs 3-strap Sandals,1,"Shoes,Women, Flats",DAWGS,14.99,1,No Description yet,9.98,1
+141,Kids' Dawgs 3-strap Sandals,1,"Shoes,Women, Flats",DAWGS,11.99,1,No Description yet,3.98,1
+142,Womens Dolce Vita Mini Oxford Flats - Cheetah,1,"Shoes,Women, Flats",Dolce Vita,99,1,new with tags,178,1
+143,Womens Dolce Vita Mini Oxford Flats - Cheetah,1,"Shoes,Women, Flats",Dolce Vita,48,1,new with box,76,1
+144,Woolrich Womens Lane Suede Distressed Chukka Boots,1,"Shoes,Women, Flats",Woolrich,99.99,1,"Soft sole,walking support",179.98,1
+145,"Women's Easy Street, Wynne Ankle Boot",2,"Shoes,Women, Flats",Easy Street,29.95,1,new with box,39.9,1
+146,"Women's Easy Street, Wynne Ankle Boot",2,"Shoes,Women, Heels",Easy Street,54.95,1,new with tags,89.9,1
+147,Converse Chuck Taylor All Star Tri Zip Hi,1,"Shoes,Women, Heels",Converse,44.95,1,high heel great style,69.9,1
+148,Seychelles Womens Advance Exotic Leather Textured Platform Heels,1,"Shoes,Women, Heels",Seychelles,46.2,1,good condition,72.4,1
+149,Lorimer Whip Stitched Gore Boots,3,"Shoes,Women, Heels",Olivia Miller,64.43,1,high heel great style,108.86,1
+150,Lorimer Whip Stitched Gore Boots,1,"Shoes,Women, Heels",Olivia Miller,99.99,1,No Description yet,179.98,1
+151,Okabashi New Womens Jade Maui Thong Flip Flop Arch Support Sandals Shoes (sz L),1,"Shoes,Women, Heels",OKABASHI,27.67,1,new with box,35.34,1
+152,Okabashi New Womens Jade Maui Thong Flip Flop Arch Support Sandals Shoes (sz L),1,"Shoes,Women, Heels",OKABASHI,21.5,1,new,23,1
+153,"Women's Highest Heel Shoes 5 1/4 Heel Pump - Yellow Patent Pu""",1,"Shoes,Women, Heels",The Highest Heel,76.99,1,new,133.98,1
+154,"Women's Highest Heel Shoes 5 1/4 Heel Pump - Yellow Patent Pu""",1,"Shoes,Women, Heels",The Highest Heel,87.99,1,new,155.98,1
+155,"Caress-401, 4'' Stiletto Heel Slide Sandal",1,"Shoes,Women, Heels",PleaserUSA,31.58,1,new,43.16,1
+156,Shoes of Soul Women's Laceup Cover Toe High Heel Sandals,1,"Shoes,Women, Heels",SHOES OF SOUL,19.6,1,new,19.2,1
+157,Soft Science Women Firefly Canvas Sneakers,1,"Shoes,Women, Heels",Soft Science,64.99,1,new,109.98,1
+158,Style & Co Ceejay   Open Toe Synthetic  Sandals,1,"Shoes,Women, Heels",Style & Co.,69,1,new,118,1
+159,Style & Co Ceejay   Open Toe Synthetic  Sandals,1,"Shoes,Women, Stilletos",Style & Co.,12.99,1,new,5.98,1
+160,Style & Co Ceejay   Open Toe Synthetic  Sandals,1,"Shoes,Women, Stilletos",Style & Co.,38.04,1,comfortable,56.08,1
+161,Fergalicious Sunday Women  Open-toe Synthetic  Slingback Sandal,1,"Shoes,Women, Stilletos",Fergalicious,40,1,new with box,60,1
+162,Fergalicious Sunday Women  Open-toe Synthetic  Slingback Sandal,1,"Shoes,Women, Stilletos",Fergalicious,35.98,1,new with tags,51.96,1
+163,Toms Solana Flip Flop Open Toe Canvas Flip Flop Sandal,1,"Shoes,Women, Stilletos",TOMS,24.21,1,daily wear,28.42,1
+164,Toms Solana Flip Flop Open Toe Canvas Flip Flop Sandal,1,"Shoes,Women, Stilletos",TOMS,24.99,1,office wear,29.98,1
+165,Toms Solana Flip Flop Open Toe Canvas Flip Flop Sandal,1,"Shoes,Women, Stilletos",TOMS,33.98,1,new with box,47.96,1
+166,Toms Solana Flip Flop Open Toe Canvas Flip Flop Sandal,1,"Shoes,Women, Stilletos",TOMS,39,1,new with tags,58,1
+167,Annie Shoes Lantern  W Open-toe Canvas  Heels,1,"Shoes,Women, Stilletos",Annie Shoes,60,1,fashion at its best comfort,100,1
+168,Annie Shoes Lantern  W Open-toe Canvas  Heels,1,"Shoes,Women, Stilletos",Annie Shoes,19.99,1,new,19.98,1
+169,Mia Jeri Women  Round Toe Synthetic Tan Mid Calf Boot,1,"Shoes,Women, Floaters",Mia,80,1,new with box,140,1
+170,Mia Jeri Women  Round Toe Synthetic Tan Mid Calf Boot,1,"Shoes,Women, Floaters",Mia,19.99,1,new with tags,19.98,1
+171,Nike Shox Current Running Women's Shoes Size,2,"Shoes,Women, Floaters",Nike,91.62,1,No Description yet,163.24,1
+172,Nike Shox Current Running Women's Shoes Size,1,"Shoes,Women, Floaters",Nike,125,1,new with tags,230,1
+173,Naturalizer Oath   Pointed Toe Canvas  Heels,1,"Shoes,Women, Floaters",Naturalizer,99,1,new with box,178,1
+174,Naturalizer Oath   Pointed Toe Canvas  Heels,1,"Shoes,Women, Floaters",Naturalizer,23.99,1,"Soft sole,walking support",27.98,1
+175,Naturalizer Oath   Pointed Toe Canvas  Heels,1,"Shoes,Women, Floaters",Naturalizer,22.99,1,new with box,25.98,1
+176,"Sneed- Women's Dance Shoes Latin Satin Flared Heel Blue/brown/other , Brown-us4-4.5 / Eu34 / Uk2-2.5 / Cn33 , Brown-us4-4.5 / Eu34 / Uk2-2.5 / Cn33",1,"Shoes,Women, Floaters",Sneed,101,1,new with tags,182,1
+177,"Totes Isotoner Size Small Womens Bridesmaid Rhinestone Slippers and Pashmina Set, Cream",1,"Shoes,Women, Floaters",Totes Isotoner,45,1,high heel great style,70,1
+178,"Totes Isotoner Size Small Womens Bridesmaid Rhinestone Slippers and Pashmina Set, Cream",1,"Shoes,Women, Floaters",Totes Isotoner,24.95,1,good condition,29.9,1
+179,"Sneed- Customizable Women's Dance Shoes Latin/salsa Satin Customized Heel Black/blue/yellow/pink/purple/red/white/fuchsia , Almond-us8 / Eu39 / Uk6 / Cn39 , Almond-us8 / Eu39 / Uk6 / Cn39",1,"Shoes,Women, Wedges",Sneed,148,1,high heel great style,276,1
+180,Kayleen By Los Angeles Danuta-2 Women  Open Toe Synthetic  Wedge Sandal,1,"Shoes,Women, Wedges",Kayleen by Los Angeles,50,1,No Description yet,80,1
+181,Kayleen By Los Angeles Danuta-2 Women  Open Toe Synthetic  Wedge Sandal,1,"Shoes,Women, Wedges",Kayleen by Los Angeles,8.99,1,new with box,-2.02,1
+182,Kayleen By Los Angeles Danuta-2 Women  Open Toe Synthetic  Wedge Sandal,1,"Shoes,Women, Wedges",Kayleen by Los Angeles,5.99,1,new with tags,-8.02,1
+183,Nine West Ticktock Women Us 7.5 Brown Slides Sandal Pre Owned 1695,3,"Shoes,Women, Wedges",Nine West,5.99,1,new with box,-8.02,1
+184,Easy Spirit E360 Gisselle  W Open-toe Leather  Slingback Sandal,4,"Shoes,Women, Sandals",Easy Spirit e360,31.98,1,new with box,43.96,1
+185,Easy Spirit E360 Gisselle  W Open-toe Leather  Slingback Sandal,1,"Shoes,Women, Sandals",Easy Spirit e360,79,1,new with tags,138,1
+186,Easy Spirit E360 Gisselle  W Open-toe Leather  Slingback Sandal,1,"Shoes,Women, Sandals",Easy Spirit e360,22.99,1,No Description yet,25.98,1
+187,Gola Spirit Ladies Sneakers,1,"Shoes,Women, Sandals",Gola,39.99,1,new with box,59.98,1
+188,Women Mens Uv400 Fashion Glasses Aviator Sunglasses Shades Eyewear Gafas De Sol,3,"Shoes,Women, Sandals",Adeyro,6.45,1,new with tags,-7.1,1
+189,"Gameday Womens 13 Brass Leather Texas State Cowboy Boots (size 5) Swt-l009-1""",1,"Shoes,Women, Sandals",Gameday Boots,259,1,high heel great style,498,1
+190,Womens Joie Keaton Fringe Chelsea Western Ankle Boots - Sandstone,1,"Shoes,Women, Sandals",Joie,360,1,comfortable,700,1
+191,Womens Joie Keaton Fringe Chelsea Western Ankle Boots - Sandstone,1,"Shoes,Women, Sandals",Joie,199,1,new with box,378,1
+192,Nine West Odarlin Women  Open Toe Leather White Sandals,1,"Shoes,Women, Sandals",Nine West,83,1,new with tags,146,1
+193,Nine West Odarlin Women  Open Toe Leather White Sandals,1,"Shoes,Women, Sandals",Nine West,44.34,1,daily wear,68.68,1
+194,Nine West Odarlin Women  Open Toe Leather White Sandals,1,"Shoes,Women, Sandals",Nine West,79,1,office wear,138,1
+195,Nine West Odarlin Women  Open Toe Leather White Sandals,1,"Shoes,Women, Sandals",Nine West,26.99,1,new with box,33.98,1
+196,Jessica Simpson Women's Dacia Suede Dark Olive Ankle-high Suede Boot - 8.5m,1,"Shoes,Women, FlipFlops",Jessica Simpson,110,1,new with tags,200,1
+197,Nike Dunk Sky Hi Print Women's Shoes Size,5,"Shoes,Women, FlipFlops",Nike,95.19,1,fashion at its best comfort,170.38,1
+198,Nike Dunk Sky Hi Print Women's Shoes Size,1,"Shoes,Women, FlipFlops",Nike,95.19,1,new,170.38,1
+199,"Sneed- Customizable Women's Dance Shoes Latin/salsa Satin Customized Heel Black/blue/yellow/pink/purple/red/white/fuchsia , Pink-us9 / Eu40 / Uk7 / Cn41 , Pink-us9 / Eu40 / Uk7 / Cn41",1,"Shoes,Women, FlipFlops",Sneed,88,1,new with box,156,1
+200,Dearfoams  Womens Cozie Knit Slipper,1,"Shoes,Women, FlipFlops",Dearfoams,20,1,new with tags,20,1
+201,Dearfoams  Womens Cozie Knit Slipper,1,"Shoes,Women, FlipFlops",Dearfoams,6.77,1,No Description yet,-6.46,1
+202,Soybu 3220 Womens Purple Wool Blend Braided Headband O/s Bhfo,3,"Shoes,Women, FlipFlops",Soybu,3.26,1,new with tags,-13.48,1
+203,Soybu 3220 Womens Purple Wool Blend Braided Headband O/s Bhfo,3,"Shoes,Women, FlipFlops",Soybu,2.25,1,new with box,-15.5,1
+204,A1650 - Vans Authentic Lo Pro Shoes * New Womens Size 8 Cosmic Galaxy - #25682,2,"Shoes,Women, FlipFlops",Vans,31.33,1,"Soft sole,walking support",42.66,1
+205,A1650 - Vans Authentic Lo Pro Shoes * New Womens Size 8 Cosmic Galaxy - #25682,2,"Shoes,Women, FlipFlops",Vans,39.66,1,new with box,59.32,1
+206,A1650 - Vans Authentic Lo Pro Shoes * New Womens Size 8 Cosmic Galaxy - #25682,2,"Shoes,Women, Boots",Vans,35.99,1,new with tags,51.98,1
+207,A1650 - Vans Authentic Lo Pro Shoes * New Womens Size 8 Cosmic Galaxy - #25682,2,"Shoes,Women, Boots",Vans,30.93,1,high heel great style,41.86,1
+208,A1650 - Vans Authentic Lo Pro Shoes * New Womens Size 8 Cosmic Galaxy - #25682,2,"Shoes,Women, Boots",Vans,28.07,1,good condition,36.14,1
+209,Easy Spirit Women's Ellicott Athletic Shoe,1,"Shoes,Women, Boots",Easy Spirit,40.57,1,high heel great style,61.14,1
+210,Caparros Sarong   Open Toe Synthetic  Sandals,1,"Shoes,Women, Boots",Caparros,85,1,No Description yet,150,1
+211,Caparros Sarong   Open Toe Synthetic  Sandals,1,"Shoes,Women, Boots",Caparros,25.99,1,No Description yet,31.98,1
+212,Fratelli Rossetti Artic Women  Round Toe Canvas  Sneakers,1,"Shoes,Women, Boots",Fratelli Rossetti,550,1,new with tags,1080,1
+213,Fratelli Rossetti Artic Women  Round Toe Canvas  Sneakers,1,"Shoes,Women, Boots",Fratelli Rossetti,46.99,1,new with box,73.98,1
+214,Fratelli Rossetti Artic Women  Round Toe Canvas  Sneakers,1,"Shoes,Women, Boots",Fratelli Rossetti,44.99,1,"Soft sole,walking support",69.98,1
+215,Fratelli Rossetti Artic Women  Round Toe Canvas  Sneakers,1,"Shoes,Women, Boots",Fratelli Rossetti,54.98,1,new with box,89.96,1
+216,Fratelli Rossetti Artic Women  Round Toe Canvas  Sneakers,1,"Shoes,Women, Casuals",Fratelli Rossetti,55.99,1,new with tags,91.98,1
+217,Reebok Ros Workout Tr 2.0   Round Toe Synthetic  Cross Training,1,"Shoes,Women, Casuals",Reebok,49.99,1,high heel great style,79.98,1
+218,"Womens Rialto Gracia Front Zip Gladiator Sandals - Black/burn, 8.5 M Us",4,"Shoes,Women, Casuals",Rialto,29,1,good condition,38,1
+219,"Womens Rialto Gracia Front Zip Gladiator Sandals - Black/burn, 8.5 M Us",1,"Shoes,Women, Casuals",Rialto,49,1,high heel great style,78,1
+220,Wild Pair Amesti   Open Toe Synthetic  Sandals,1,"Shoes,Women, Casuals",Wild Pair,60,1,No Description yet,100,1
+221,Wild Pair Amesti   Open Toe Synthetic  Sandals,1,"Shoes,Women, Casuals",Wild Pair,3.99,1,new with box,-12.02,1
+222,Nike Women's Dunk Sky Hi Essential Casual Shoe,1,"Shoes,Women, Casuals",Nike,120,1,new,220,1
+223,Nike Women's Dunk Sky Hi Essential Casual Shoe,1,"Shoes,Women, Casuals",Nike,114.59,1,new,209.18,1
+224,Angelina Fleece-lined Plush Indoor Boots With Padded Rubber Sole,1,"Shoes,Women, Casuals",Angelina,11.99,1,new,3.98,1
+225,Easy Spirit Womens Usko Suede Faux Fur Winter Boots,1,"Shoes,Women, Casuals",Easy Spirit,69.99,1,new,119.98,1
+226,Inc International Concepts Britanii   Pointed Toe Suede  Heels,3,"Shoes,Women, Casuals",INC International Concepts,39.99,1,new,59.98,1
+227,Inc International Concepts Britanii   Pointed Toe Suede  Heels,1,"Shoes,Women, Casuals",INC International Concepts,90,1,new,160,1
+228,Inc International Concepts Britanii   Pointed Toe Suede  Heels,1,"Shoes,Women, Sneakers",INC International Concepts,35.99,1,new,51.98,1
+229,Muk Luks Women's Chris Boot,1,"Shoes,Women, Sneakers",MUK LUKS,79.2,1,new,138.4,1
+230,Bellini Flavor  W Open Toe Canvas  Wedge Sandal,1,"Shoes,Women, Sneakers",Bellini,75,1,comfortable,130,1
+231,Bellini Flavor  W Open Toe Canvas  Wedge Sandal,1,"Shoes,Women, Sneakers",Bellini,7.99,1,new with box,-4.02,1
+232,Bellini Flavor  W Open Toe Canvas  Wedge Sandal,1,"Shoes,Women, Sneakers",Bellini,21.99,1,new with tags,23.98,1
+233,Bellini Flavor  W Open Toe Canvas  Wedge Sandal,1,"Shoes,Women, Sneakers",Bellini,17.99,1,daily wear,15.98,1
+234,Crocs Boy's Specialist Kids Black Ankle-high Rubber Sandal - 3m,1,"Shoes,Women, Sneakers",Crocs,27.95,1,office wear,35.9,1
+235,Sockwell Women's Meta Cushion Circulator Compression Socks,3,"Shoes,Women, Sneakers",Sockwell,24.99,1,new with box,29.98,1
+236,Sockwell Women's Meta Cushion Circulator Compression Socks,2,"Shoes,Women, Sneakers",Sockwell,20.81,1,new with tags,21.62,1
+237,Bearpaw Womens Knit Tall Sheepskin Fold Over Knee-high Boot,1,"Shoes,Women, Sneakers",Bearpaw,70,1,fashion at its best comfort,120,1
+238,Bearpaw Womens Knit Tall Sheepskin Fold Over Knee-high Boot,1,"Shoes,Women, Sneakers",Bearpaw,49.99,1,new,79.98,1
+239,Bearpaw Womens Knit Tall Sheepskin Fold Over Knee-high Boot,1,"Shoes,Women, Sneakers",Bearpaw,54.99,1,new with box,89.98,1
+240,Bearpaw Womens Knit Tall Sheepskin Fold Over Knee-high Boot,1,"Shoes,Women, Boots",Bearpaw,64.99,1,new with tags,109.98,1
+241,"Victorian-03, 2 3 4 Inch Heel Maryjane Pump Shoes",1,"Shoes,Women, Ballet",PleaserUSA,43.28,1,No Description yet,66.56,1
+242,Sperry Top-sider Women's Barrelfish Boat Shoe,1,"Shoes,Women, Ballet",SPERRY,85.86,1,new with tags,151.72,1
+243,Sperry Top-sider Women's Barrelfish Boat Shoe,1,"Shoes,Women, Ballet",SPERRY,87.77,1,new with box,155.54,1
+244,Women's Lee Riders Skinny Leg Jeans - Size 12 M - Mid Rise - 13057q8 (g 21),3,"Shoes,Women, Ballet",Lee Rider,9.99,1,"Soft sole,walking support",-0.02,1
+245,Puma Pulse Xt Fade Women  Round Toe Synthetic  Running Shoe,1,"Shoes,Women, Ballet",PUMA,27.99,1,new with box,35.98,1
+246,Puma Pulse Xt Fade Women  Round Toe Synthetic  Running Shoe,1,"Shoes,Women, Ballet",PUMA,75,1,new with tags,130,1
+247,Nike Internationalist Women's Shoes Size,1,"Shoes,Women, Ballet",Nike,69.15,1,high heel great style,118.3,1
+248,Nike Internationalist Women's Shoes Size,1,"Shoes,Women, Ballet",Nike,90,1,good condition,160,1
+249,Rampage Flynn Women  Open Toe Canvas  Wedge Sandal,1,"Shoes,Women, Ballet",Rampage,17.99,1,high heel great style,15.98,1
+250,Silver Lilly New Black Bear Paw Plush Animal Halloween Costume Slippers (small),1,"Shoes,Women, Ballet",Silver Lilly,23.99,1,No Description yet,27.98,1
+251,Silver Lilly New Black Bear Paw Plush Animal Halloween Costume Slippers (small),1,"Shoes,Women, Wedges",Silver Lilly,39.99,1,new with box,59.98,1
+252,Silver Lilly New Black Bear Paw Plush Animal Halloween Costume Slippers (small),1,"Shoes,Women, Wedges",Silver Lilly,23.99,1,new with tags,27.98,1
+253,Easy Spirit Women's Portola Boot,1,"Shoes,Women, Wedges",Easy Spirit,64.97,1,new with box,109.94,1
+254,Mizuno Wave Tornado 9 Women W Round Toe Synthetic Black Running Shoe,1,"Shoes,Women, Wedges",Mizuno,54.99,1,new with box,89.98,1
+255,Nwt Profile By Gottex Swimwear Grand Prix Tankini Black Top Bikini E416-1b33 *16,3,"Shoes,Women, Wedges",Gottex,29.99,1,new with tags,39.98,1
+256,Toms Women's Alpargata Vintage Canvas Navy/multi Ankle-high Canvas Flat Shoe - 5.5m,1,"Shoes,Women, Wedges",TOMS,39.15,1,No Description yet,58.3,1
+257,Bronx Womens Mixer Up Combat Boots,1,"Shoes,Women, Wedges",Bronx,62.99,1,new with box,105.98,1
+258,Vans Unisex Authentic Sneakers,4,"Shoes,Women, Wedges",VANS,34.99,1,new with tags,49.98,1
+259,Vans Unisex Authentic Sneakers,2,"Shoes,Women, Wedges",VANS,44.99,1,high heel great style,69.98,1
+260,Vans Unisex Authentic Sneakers,1,"Shoes,Women, Flats",VANS,65,1,comfortable,110,1
+261,Sexy Satin Crotchless Lace Back Frilly Knickers 6-24 Inc Plus Sizes Black White,3,"Shoes,Women, Flats",Seven Til Midnight 9750 & 9750X,16.56,1,new with box,13.12,1
+262,Propet Travellite Women Us 10 Brown Running Shoe,1,"Shoes,Women, Flats",Propet,55.95,1,new with tags,91.9,1
+263,Propet Travellite Women Us 10 Brown Running Shoe,1,"Shoes,Women, Flats",Propet,55.95,1,daily wear,91.9,1
+264,Calvin Klein Tanda   Pointed Toe Suede  Heels,1,"Shoes,Women, Flats",Calvin Klein,119,1,office wear,218,1
+265,Calvin Klein Tanda   Pointed Toe Suede  Heels,1,"Shoes,Women, Flats",Calvin Klein,42.99,1,new with box,65.98,1
+266,"Adore-1017rsf, Lace-up Fringe Ankle Boot",1,"Shoes,Women, Flats",PleaserUSA,103.95,1,new with tags,187.9,1
+267,Marc Fisher Aysha Wide Calf Women Us 6.5 Brown Knee High Boot,5,"Shoes,Women, Flats",Marc Fisher,60.54,1,fashion at its best comfort,101.08,1
+268,Marc Fisher Aysha Wide Calf Women Us 6.5 Brown Knee High Boot,1,"Shoes,Women, Flats",Marc Fisher,119,1,new,218,1
+269,Strand Myrtle Beach Fashion Thong Sandals Womens Shoes Pink Size 6,1,"Shoes,Women, Flats",Strand Import,15.72,1,new with box,11.44,1
+270,Bulk Buys Womens Slippers- Assorted Colors - Pack of 6,1,"Shoes,Women, Flats",Bulk Buys,20.44,1,new with tags,20.88,1
+271,Olukai Paniolo Sandal - Women's Natural/natural 6,1,"Shoes,Women, Heels",OluKai,84.99,1,No Description yet,149.98,1
+272,Olukai Paniolo Sandal - Women's Natural/natural 6,1,"Shoes,Women, Heels",OluKai,80.74,1,new with tags,141.48,1
+273,Reebok Z Dual Rush,1,"Shoes,Women, Heels",Reebok,49.95,1,new with box,79.9,1
+274,Reebok Z Dual Rush,1,"Shoes,Women, Heels",Reebok,69.95,1,"Soft sole,walking support",119.9,1
+275,Reebok Z Dual Rush,1,"Shoes,Women, Heels",Reebok,63.99,1,new with box,107.98,1
+276,Vans Authentic Slim   Round Toe Leather  Sneakers,1,"Shoes,Women, Heels",VANS,45,1,new with tags,70,1
+277,Vans Authentic Slim   Round Toe Leather  Sneakers,1,"Shoes,Women, Heels",VANS,35.99,1,high heel great style,51.98,1
+278,Vans Unisex Authentic Lo Pro City Sneakers,1,"Shoes,Women, Heels",VANS,64.99,1,good condition,109.98,1
+279,Vans Unisex Authentic Lo Pro City Sneakers,1,"Shoes,Women, Heels",VANS,45.99,1,high heel great style,71.98,1
+280,Soda Womens Beer-s Wedge Platform Pumps Shoes,1,"Shoes,Women, Heels",Soda,37.95,1,No Description yet,55.9,1
+281,Ugg Australia Belcloud Women  Round Toe Leather  Knee High Boot,1,"Shoes,Women, Heels",Ugg Australia,188.99,1,No Description yet,357.98,1
+282,Ugg Australia Belcloud Women  Round Toe Leather  Knee High Boot,1,"Shoes,Women, Heels",Ugg Australia,295,1,new with tags,570,1
+283,Ecco Women's Bluma Ballerina Summer Flat,1,"Shoes,Women, Heels",ECCO,134,1,new with box,248,1
+284,Ecco Women's Bluma Ballerina Summer Flat,1,"Shoes,Women, Stilletos",ECCO,67.29,1,"Soft sole,walking support",114.58,1
+285,Born Women's Clarice Leather Taupe Ankle-high Leather Sandal - 7m,1,"Shoes,Women, Stilletos",Born,44.46,1,new with box,68.92,1
+286,Born Women's Clarice Leather Taupe Ankle-high Leather Sandal - 7m,1,"Shoes,Women, Stilletos",Born,44.54,1,new with tags,69.08,1
+287,Nine West Women's Dinah Leather Dress Pump,1,"Shoes,Women, Stilletos",Nine West,43.89,1,high heel great style,67.78,1
+288,Aerosoles Factory Women  Round Toe Synthetic Black Ankle Boot,1,"Shoes,Women, Stilletos",Aerosoles,67.98,1,good condition,115.96,1
+289,Aerosoles Factory Women  Round Toe Synthetic Black Ankle Boot,1,"Shoes,Women, Stilletos",Aerosoles,99,1,high heel great style,178,1
+290,Style & Co. Women's Pravatif Strappy Dress Sandals,1,"Shoes,Women, Stilletos",Style & Co.,30.19,1,No Description yet,40.38,1
+291,Touch Ups Womens Melanie Gold Glitter Platform 10.5 M,1,"Shoes,Women, Stilletos",Touch Ups,34.05,1,new with box,48.1,1
+292,Touch Ups Womens Melanie Gold Glitter Platform 10.5 M,1,"Shoes,Women, Stilletos",Touch Ups,34.05,1,new,48.1,1
+293,Nina Women's Marisun Dress Caged Sandals,1,"Shoes,Women, Stilletos",Nina,65.04,1,new,110.08,1
+294,Nina Women's Marisun Dress Caged Sandals,1,"Shoes,Women, Floaters",Nina,60.59,1,new,101.18,1
+295,Nine West Ganiston   Open-toe Leather  Slingback Heel,1,"Shoes,Women, Floaters",Nine West,23.99,1,new,27.98,1
+296,Nine West Ganiston   Open-toe Leather  Slingback Heel,1,"Shoes,Women, Floaters",Nine West,89,1,new,158,1
+297,"Sneed- Customized Shoes Women's Dance Shoes Sparkling Glitter Latin Salsa Shoe , Silver-us8 / Eu39 / Uk6 / Cn39 , Silver-us8 / Eu39 / Uk6 / Cn39",1,"Shoes,Women, Floaters",Sneed,88,1,new,156,1
+298,Mo Mo Womens' Ringer Sequin Western Boot,1,"Shoes,Women, Floaters",Mo Mo,37.97,1,new,55.94,1
+299,Mo Mo Womens' Ringer Sequin Western Boot,1,"Shoes,Women, Floaters",Mo Mo,21,1,new,22,2
+300,Mo Mo Womens' Ringer Sequin Western Boot,1,"Shoes,Women, Floaters",Mo Mo,28.5,1,comfortable,37,2
+301,Mo Mo Womens' Ringer Sequin Western Boot,1,"Shoes,Women, Floaters",Mo Mo,34.5,1,new with box,49,2
+302,Mo Mo Womens' Ringer Sequin Western Boot,1,"Shoes,Women, Floaters",Mo Mo,21.11,1,new with tags,22.22,2
+303,Mo Mo Womens' Ringer Sequin Western Boot,1,"Shoes,Women, Floaters",Mo Mo,37.97,1,daily wear,55.94,2
+304,Pleaser Illusion-658rs Women's Rhinestone High Stiletto Heel Ankle Strap Sandals,1,"Shoes,Women, Wedges",PLEASER,112.95,1,office wear,205.9,2
+305,Vans Unisex Authentic Sneakers,1,"Shoes,Women, Wedges",VANS,34.99,1,new with box,49.98,2
+306,Vans Unisex Authentic Sneakers,1,"Shoes,Women, Wedges",VANS,65,1,new with tags,110,2
+307,Propet Cheryl - Women's Adjustable Comfort Sandals - Widths - Champagne Foil,1,"Shoes,Women, Wedges",Propet,59.95,1,fashion at its best comfort,99.9,2
+308,Propet Cheryl - Women's Adjustable Comfort Sandals - Widths - Champagne Foil,1,"Shoes,Women, Wedges",Propet,59.95,1,new,99.9,2
+309,"Feynsinn Crossbody Shoulder Bag Ashton - Cross-body Strap Fits Tablet, Ipad - Genuine Black Leather (9.6 X 12 X 3.6 In.)",1,"Shoes,Women, Sandals",Feynsinn,159.9,1,new with box,299.8,2
+310,"Feynsinn Crossbody Shoulder Bag Ashton - Cross-body Strap Fits Tablet, Ipad - Genuine Black Leather (9.6 X 12 X 3.6 In.)",1,"Shoes,Women, Sandals",Feynsinn,109.9,1,new with tags,199.8,2
+311,"Vision Street Wear Womens Canvas Hi Skate Shoe, White/yellow, Us 8",1,"Shoes,Women, Sandals",Vision Street Wear,24.99,1,No Description yet,29.98,2
+312,"Vision Street Wear Womens Canvas Hi Skate Shoe, White/yellow, Us 8",1,"Shoes,Women, Sandals",Vision Street Wear,23.79,1,new with tags,27.58,2
+313,"Vision Street Wear Womens Canvas Hi Skate Shoe, White/yellow, Us 8",1,"Shoes,Women, Sandals",Vision Street Wear,19.99,1,new with box,19.98,2
+314,"Vision Street Wear Womens Canvas Hi Skate Shoe, White/yellow, Us 8",1,"Shoes,Women, Sandals",Vision Street Wear,55,1,"Soft sole,walking support",90,2
+315,"Vision Street Wear Womens Canvas Hi Skate Shoe, White/yellow, Us 8",1,"Shoes,Women, Sandals",Vision Street Wear,27.79,1,new with box,35.58,2
+316,Chinese Laundry Grand Prize   Open Toe Leather  Wedge Sandal,1,"Shoes,Women, Sandals",Chinese Laundry,29.99,1,new with tags,39.98,2
+317,Pour La Victoire Zarine Women Leather Flats,1,"Shoes,Women, Sandals",Pour La Victoire,95.39,1,high heel great style,170.78,2
+318,Womens Easy Spirit Eveline Comfort Shoes - Dark Purple/brown,1,"Shoes,Women, Sandals",Easy Spirit,34,1,good condition,48,2
+319,Womens Easy Spirit Eveline Comfort Shoes - Dark Purple/brown,1,"Shoes,Women, Sandals",Easy Spirit,79,1,high heel great style,138,2
+320,Klogs Naples Mens - Womens Clogs - Black Oiled,1,"Shoes,Women, Sandals",Klogs,119.95,1,No Description yet,219.9,2
+321,Guess Ette3 Women  Open Toe Leather  Wedge Heel,1,"Shoes,Women, FlipFlops",GUESS,99,1,new with box,178,2
+322,E! Live From The Red Carpet Women's Zandra Pump Shoes,1,"Shoes,Women, FlipFlops",E! Live From The Red Carpet,72.59,1,new with tags,125.18,2
+323,E! Live From The Red Carpet Women's Zandra Pump Shoes,1,"Shoes,Women, FlipFlops",E! Live From The Red Carpet,78.54,1,new with box,137.08,2
+324,New Le Suit Mismatched Sizes Women's Skirt Suit Sz 8p 4p $200,1,"Shoes,Women, FlipFlops",Le Suit,51.99,1,new with box,83.98,2
+325,American Living London   Open Toe Synthetic  Sandals,1,"Shoes,Women, FlipFlops",American Living,20.99,1,new with tags,21.98,2
+326,Taffy 8100 Womens Black Moisture Wicking Essential Athletic Jacket Plus 1x Bhfo,3,"Shoes,Women, FlipFlops",Taffy,4.9,1,No Description yet,-10.2,2
+327,Taffy 8100 Womens Black Moisture Wicking Essential Athletic Jacket Plus 1x Bhfo,3,"Shoes,Women, FlipFlops",Taffy,10.3,1,new with box,0.600000000000001,2
+328,Taffy 8100 Womens Black Moisture Wicking Essential Athletic Jacket Plus 1x Bhfo,3,"Shoes,Women, FlipFlops",Taffy,7.79,1,new with tags,-4.42,2
+329,Taffy 8100 Womens Black Moisture Wicking Essential Athletic Jacket Plus 1x Bhfo,3,"Shoes,Women, FlipFlops",Taffy,3.88,1,high heel great style,-12.24,2
+330,Taffy 8100 Womens Black Moisture Wicking Essential Athletic Jacket Plus 1x Bhfo,3,"Shoes,Women, FlipFlops",Taffy,2.04,1,comfortable,-15.92,2
+331,Taffy 8100 Womens Black Moisture Wicking Essential Athletic Jacket Plus 1x Bhfo,3,"Shoes,Women, Boots",Taffy,5.5,1,new with box,-9,2
+332,Taffy 8100 Womens Black Moisture Wicking Essential Athletic Jacket Plus 1x Bhfo,3,"Shoes,Women, Boots",Taffy,10.09,1,new with tags,0.18,2
+333,Taffy 8100 Womens Black Moisture Wicking Essential Athletic Jacket Plus 1x Bhfo,3,"Shoes,Women, Boots",Taffy,15.5,1,daily wear,11,2
+334,Taffy 8100 Womens Black Moisture Wicking Essential Athletic Jacket Plus 1x Bhfo,3,"Shoes,Women, Boots",Taffy,5.58,1,office wear,-8.84,2
+335,Taffy 8100 Womens Black Moisture Wicking Essential Athletic Jacket Plus 1x Bhfo,3,"Shoes,Women, Boots",Taffy,3.26,1,new with box,-13.48,2
+336,Taffy 8100 Womens Black Moisture Wicking Essential Athletic Jacket Plus 1x Bhfo,3,"Shoes,Women, Boots",Taffy,9.17,1,new with tags,-1.66,2
+337,Taffy 8100 Womens Black Moisture Wicking Essential Athletic Jacket Plus 1x Bhfo,3,"Shoes,Women, Boots",Taffy,5.24,1,fashion at its best comfort,-9.52,2
+338,Taffy 8100 Womens Black Moisture Wicking Essential Athletic Jacket Plus 1x Bhfo,3,"Shoes,Women, Boots",Taffy,10.5,1,new,1,2
+339,Taffy 8100 Womens Black Moisture Wicking Essential Athletic Jacket Plus 1x Bhfo,3,"Shoes,Women, Boots",Taffy,10.05,1,new with box,0.100000000000001,2
+340,Taffy 8100 Womens Black Moisture Wicking Essential Athletic Jacket Plus 1x Bhfo,3,"Shoes,Women, Boots",Taffy,6.16,1,new with tags,-7.68,2
+341,Taffy 8100 Womens Black Moisture Wicking Essential Athletic Jacket Plus 1x Bhfo,3,"Shoes,Women, Casuals",Taffy,8.5,1,No Description yet,-3,2
+342,Taffy 8100 Womens Black Moisture Wicking Essential Athletic Jacket Plus 1x Bhfo,3,"Shoes,Women, Casuals",Taffy,5.08,1,new with tags,-9.84,2
+343,Taffy 8100 Womens Black Moisture Wicking Essential Athletic Jacket Plus 1x Bhfo,3,"Shoes,Women, Casuals",Taffy,7.5,1,new with box,-5,2
+344,Taffy 8100 Womens Black Moisture Wicking Essential Athletic Jacket Plus 1x Bhfo,3,"Shoes,Women, Casuals",Taffy,6.4,1,"Soft sole,walking support",-7.2,2
+345,Taffy 8100 Womens Black Moisture Wicking Essential Athletic Jacket Plus 1x Bhfo,3,"Shoes,Women, Casuals",Taffy,3.25,1,new with box,-13.5,2
+346,Skechers Flex Appeal Wildflowers Women Round Toe Synthetic Blue Cross Training,1,"Shoes,Women, Casuals",SKECHERS,70,1,new with tags,120,2
+347,Skechers Flex Appeal Wildflowers Women Round Toe Synthetic Blue Cross Training,1,"Shoes,Women, Casuals",SKECHERS,42.99,1,high heel great style,65.98,2
+348,Bobs By Skechers Pureflex2-better Yet Women Us 9.5 Gray Pre Owned 1650,3,"Shoes,Women, Casuals",Bobs by Skechers,12.99,1,good condition,5.98,2
+349,Aerin Padima Women  Pointed Toe Leather  Slingback Heel,1,"Shoes,Women, Casuals",Aerin,58.99,1,high heel great style,97.98,2
+350,Women Metallic Snakeskin Design Textured Sandals Silver Tone Us 7.5,1,"Shoes,Women, Casuals",G Antini,66.99,1,No Description yet,113.98,2
+351,Women Metallic Snakeskin Design Textured Sandals Silver Tone Us 7.5,1,"Shoes,Women, Casuals",G Antini,33.08,1,No Description yet,46.16,2
+352,"Nike Apres 18 Slide Women's Sandals (white/spark/granite/ Prism Pink, 6m) New",1,"Shoes,Women, Casuals",Nike,29.99,1,new with tags,39.98,2
+353,Vince Parry   Round Toe Leather  Sneakers,1,"Shoes,Women, Sneakers",Vince,225,1,new with box,430,2
+354,Vince Parry   Round Toe Leather  Sneakers,1,"Shoes,Women, Sneakers",Vince,100.98,1,"Soft sole,walking support",181.96,2
+355,Vince Parry   Round Toe Leather  Sneakers,1,"Shoes,Women, Sneakers",Vince,98.99,1,new with box,177.98,2
+356,Cole Haan Women's Boardwalk Thong Sandal,1,"Shoes,Women, Sneakers",Cole Haan,60.19,1,new with tags,100.38,2
+357,Toms Women's Classic Casual Shoe,1,"Shoes,Women, Sneakers",TOMS,47.15,1,high heel great style,74.3,2
+358,Toms Women's Classic Casual Shoe,1,"Shoes,Women, Sneakers",TOMS,53.58,1,good condition,87.16,2
+359,Toms Women's Classic Casual Shoe,1,"Shoes,Women, Sneakers",TOMS,44.47,1,high heel great style,68.94,2
+360,Minnetonka Men's Moosehide Classic Moccasin,1,"Shoes,Women, Sneakers","Minnetonka Moccasin Company, Inc.",78.95,1,No Description yet,137.9,2
+361,Nine West Women's Camya Platform Pumps,1,"Shoes,Women, Sneakers",Nine West,44.59,1,new with box,69.18,2
+362,2 Lips Too Too Lisette   Round Toe Synthetic  Ankle Boot,1,"Shoes,Women, Sneakers",2 Lips Too,23.99,1,new,27.98,2
+363,Muk Luks Women's Slipper Socks With Poms,1,"Shoes,Women, Sneakers",MUK LUKS,14,1,new,8,2
+364,Naturalizer Britta Wide Calf Women  Round Toe Synthetic  Knee High Boot,1,"Shoes,Women, Sneakers",Naturalizer,76.99,1,new,133.98,2
+365,Olivia Miller Natural Daisy Sandals,1,"Shoes,Women, Boots",Olivia Miller,39.99,1,new,59.98,2
+366,Olivia Miller Natural Daisy Sandals,1,"Shoes,Women, Ballet",Olivia Miller,19.44,1,new,18.88,2
+367,Style & Co Celie Women  Round Toe Suede Brown Winter Boot,3,"Shoes,Women, Ballet",S.C.,39.98,1,new,59.96,2
+368,Style & Co Celie Women  Round Toe Suede Brown Winter Boot,1,"Shoes,Women, Ballet",S.C.,79,1,new,138,2
+369,Style & Co Celie Women  Round Toe Suede Brown Winter Boot,1,"Shoes,Women, Ballet",S.C.,26.99,1,new,33.98,2
+370,"421-zenith, 4'' Knee High Boot Neon",1,"Shoes,Women, Ballet",ELLIE SHOES,51.04,1,comfortable,82.08,2
+371,Womens Toms Lunata Fringe Ankle Booties - Cognac Suede,1,"Shoes,Women, Ballet",TOMS,89,1,new with box,158,2
+372,Vasque Women Mantra 2.0 Sneakers,1,"Shoes,Women, Ballet",Vasque,110.95,1,new with tags,201.9,2
+373,Alfani Women's Gypsie Crystal Wedge Sandals,1,"Shoes,Women, Ballet",Alfani,38.99,1,daily wear,57.98,2
+374,Nike Free 5.0 Tr Fit 4 Team Women's Shoes Size,1,"Shoes,Women, Ballet",Nike,68.02,1,office wear,116.04,2
+375,G By Guess Hertlez Women Us 6 Black Knee High Boot,1,"Shoes,Women, Ballet",G BY GUESS,99,1,new with box,178,2
+376,G By Guess Hertlez Women Us 6 Black Knee High Boot,1,"Shoes,Women, Wedges",G BY GUESS,5.99,1,new with tags,-8.02,2
+377,Nike Women's Initiator Wolf Grey/crimson/grey Ankle-high Synthetic Running Shoe - 11m,1,"Shoes,Women, Wedges",Nike,56,1,fashion at its best comfort,92,2
+378,Nike Women's Initiator Wolf Grey/crimson/grey Ankle-high Synthetic Running Shoe - 11m,1,"Shoes,Women, Wedges",Nike,55,1,new,90,2
+379,Ccilu Baro Women's Rubber Floral Fashion Sneakers Shoes,1,"Shoes,Women, Wedges",CCILU,100,1,new with box,180,2
+380,Ccilu Baro Women's Rubber Floral Fashion Sneakers Shoes,1,"Shoes,Women, Wedges",CCILU,14.99,1,new with tags,9.98,2
+381,Women's White Mountain Gull Mule,1,"Shoes,Women, Wedges",White Mountain,70.95,1,No Description yet,121.9,2
+382,Vince Camuto Mertella2 Women  Open Toe Canvas  Sandals,5,"Shoes,Women, Wedges",Vince Camuto,19.99,1,new with tags,19.98,2
+383,Vince Camuto Mertella2 Women  Open Toe Canvas  Sandals,1,"Shoes,Women, Wedges",Vince Camuto,79,1,new with box,138,2
+384,Womens Easy Spirit Briano Mid-calf Comfort Boots - Black,1,"Shoes,Women, Wedges",Easy Spirit,56.99,1,"Soft sole,walking support",93.98,2
+385,Eighty4 Smoking Slipper,1,"Shoes,Women, Flats",eighty4,20,1,new with box,20,2
+386,Eighty4 Smoking Slipper,1,"Shoes,Women, Flats",eighty4,14.99,1,new with tags,9.98,2
+387,Eighty4 Smoking Slipper,1,"Shoes,Women, Flats",eighty4,17.8,1,high heel great style,15.6,2
+388,Eighty4 Smoking Slipper,1,"Shoes,Women, Flats",eighty4,20,1,good condition,20,2
+389,Women's Crocs A-leigh 2-strap Mini Wedge Sandal,1,"Shoes,Women, Flats",Crocs,51.95,1,high heel great style,83.9,2
+390,"Toms Women's Classic Knit Casual Shoe (6.5 B (m) Us, Grey Black)",1,"Shoes,Women, Flats",TOMS,58.99,1,No Description yet,97.98,2
+391,Charles David Regalia Women  Open Toe Leather Orange Wedge Heel,3,"Shoes,Women, Flats",Charles David,106.99,1,new with box,193.98,2
+392,Charles David Regalia Women  Open Toe Leather Orange Wedge Heel,1,"Shoes,Women, Flats",Charles David,195,1,new with tags,370,2
+393,Charles David Regalia Women  Open Toe Leather Orange Wedge Heel,1,"Shoes,Women, Flats",Charles David,113.98,1,new with box,207.96,2
+394,P&w Ny Womens 6900 Waterproof Genuine Leather Duck Boot Shoe,1,"Shoes,Women, Flats",P&W New York,44.99,1,new with box,69.98,2
+395,P&w Ny Womens 6900 Waterproof Genuine Leather Duck Boot Shoe,1,"Shoes,Women, Flats",P&W New York,89.99,1,new with tags,159.98,2
+396,Charles By Charles David Pact   Pointed Toe Leather  Heels,1,"Shoes,Women, Heels",Charles By Charles David,45.98,1,No Description yet,71.96,2
+397,Charles By Charles David Pact   Pointed Toe Leather  Heels,1,"Shoes,Women, Heels",Charles By Charles David,33.99,1,new with box,47.98,2
+398,Charles By Charles David Pact   Pointed Toe Leather  Heels,2,"Shoes,Women, Heels",Charles By Charles David,99,1,new with tags,178,2
+399,Charles By Charles David Pact   Pointed Toe Leather  Heels,3,"Shoes,Women, Heels",Charles By Charles David,31.99,1,high heel great style,43.98,2
+400,Charles By Charles David Pact   Pointed Toe Leather  Heels,2,"Shoes,Women, Heels",Charles By Charles David,35.99,1,comfortable,51.98,2
+401,Nine West  Selena Women  Pointed Toe Leather Black Heels,1,"Shoes,Women, Heels",Nine West,42.99,1,new with box,65.98,2
+402,Nine West  Selena Women  Pointed Toe Leather Black Heels,1,"Shoes,Women, Heels",Nine West,79,1,new with tags,138,2
+403,Vans Mens Twill & Gingham Sk8-hi Reissue Sneaker,1,"Shoes,Women, Heels",VANS,52.47,1,daily wear,84.94,2
+404,Propet Travellite Mary Jane - Active - Women's Travelwalker - White,1,"Shoes,Women, Heels",Propet,79,1,office wear,138,2
+405,Propet Travellite Mary Jane - Active - Women's Travelwalker - White,1,"Shoes,Women, Heels",Propet,23.99,1,new with box,27.98,2
+406,Propet Travellite Mary Jane - Active - Women's Travelwalker - White,1,"Shoes,Women, Heels",Propet,55.95,1,new with tags,91.9,2
+407,"Sneed- Non Customizable Women's Dance Shoes Belly/latin/salsa/samba Leatherette/sparkling Glitter/synthetic Stiletto Heel , Silver-us6 / Eu36 / Uk4 / Cn36 , Silver-us6 / Eu36 / Uk4 / Cn36",1,"Shoes,Women, Heels",Sneed,62,1,fashion at its best comfort,104,2
+408,Easy Spirit Loris Women Us 7.5 Black Open Toe Slingback Sandal,1,"Shoes,Women, Stilletos",Easy Spirit,29.99,1,new,39.98,2
+409,Easy Spirit Loris Women Us 7.5 Black Open Toe Slingback Sandal,2,"Shoes,Women, Stilletos",Easy Spirit,75,1,new with box,130,2
+410,Easy Spirit Loris Women Us 7.5 Black Open Toe Slingback Sandal,1,"Shoes,Women, Stilletos",Easy Spirit,7.99,1,new with tags,-4.02,2
+411,Easy Spirit Loris Women Us 7.5 Black Open Toe Slingback Sandal,1,"Shoes,Women, Stilletos",Easy Spirit,18.99,1,No Description yet,17.98,2
+412,Easy Spirit Loris Women Us 7.5 Black Open Toe Slingback Sandal,1,"Shoes,Women, Stilletos",Easy Spirit,14.99,1,new with tags,9.98,2
+413,Charles By Charles David Drew Women  Pointed Toe Leather  Heels,1,"Shoes,Women, Stilletos",Charles By Charles David,99,1,new with box,178,2
+414,Charles By Charles David Drew Women  Pointed Toe Leather  Heels,1,"Shoes,Women, Stilletos",Charles By Charles David,46.99,1,"Soft sole,walking support",73.98,2
+415,Carrini Ca Collection Women's Fashion Faux Fur Booties,1,"Shoes,Women, Stilletos",Parent's Choice,43.88,1,new with box,67.76,2
+416,Carrini Ca Collection Women's Fashion Faux Fur Booties,1,"Shoes,Women, Stilletos",Parent's Choice,32.99,1,new with tags,45.98,2
+417,Carrini Ca Collection Women's Fashion Faux Fur Booties,1,"Shoes,Women, Stilletos",Parent's Choice,17.88,1,high heel great style,15.76,2
+418,Bearpaw Boots Womens Constance Rainboot Rubber Ditch 1852w,1,"Shoes,Women, Floaters",Bearpaw,44.43,1,good condition,68.86,2
+419,Bearpaw Boots Womens Constance Rainboot Rubber Ditch 1852w,1,"Shoes,Women, Floaters",Bearpaw,69.99,1,high heel great style,119.98,2
+420,Easy Spirit Sapi  2a Round Toe Canvas  Sneakers,2,"Shoes,Women, Floaters",Easy Spirit,45.98,1,No Description yet,71.96,2
+421,Easy Spirit Sapi  2a Round Toe Canvas  Sneakers,2,"Shoes,Women, Floaters",Easy Spirit,20.99,1,No Description yet,21.98,2
+422,Easy Spirit Sapi  2a Round Toe Canvas  Sneakers,1,"Shoes,Women, Floaters",Easy Spirit,75,1,new with tags,130,2
+423,Easy Spirit Danica Women  Round Toe Leather Black Heels,1,"Shoes,Women, Floaters",Easy Spirit,21.99,1,new with box,23.98,2
+424,Easy Spirit Danica Women  Round Toe Leather Black Heels,1,"Shoes,Women, Floaters",Easy Spirit,89,1,"Soft sole,walking support",158,2
+425,Trotters Milly  N/s Open Toe Leather  Wedge Sandal,1,"Shoes,Women, Floaters",Trotters,56.99,1,new with box,93.98,2
+426,Trotters Milly  N/s Open Toe Leather  Wedge Sandal,1,"Shoes,Women, Floaters",Trotters,58.99,1,new with tags,97.98,2
+427,Trotters Milly  N/s Open Toe Leather  Wedge Sandal,3,"Shoes,Women, Floaters",Trotters,89.95,1,high heel great style,159.9,2
+428,Trotters Milly  N/s Open Toe Leather  Wedge Sandal,1,"Shoes,Women, Wedges",Trotters,26.99,1,good condition,33.98,2
+429,Nine West Women's Casablanc Synthetic Ankle-high Synthetic Pump,1,"Shoes,Women, Wedges",Nine West,50.73,1,high heel great style,81.46,2
+430,Nine West Women's Casablanc Synthetic Ankle-high Synthetic Pump,1,"Shoes,Women, Wedges",Nine West,50.64,1,No Description yet,81.28,2
+431,Nine West Women's Casablanc Synthetic Ankle-high Synthetic Pump,1,"Shoes,Women, Wedges",Nine West,50.61,1,new with box,81.22,2

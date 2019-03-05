@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <link rel=stylesheet type=text/css href="{{ url_for('static', filename='css/dyna.css') }}"/>
+  <title>DynamicPricing</title>
+</head>
+<body bgcolor="76323f" style="font-family:Lucida Sans Unicode;">
+	<h1 style="font-family:Lucida Sans Unicode; color: white;"> <b> The new prices for your commodities are as follows </b> </h1>
+  <div class="table" style="font-family:Lucida Sans Unicode; color: white;">
+    {% block body %}
+    {{ data|safe }}
+    {% endblock %}  
+  </div>
+</body>
+</html>

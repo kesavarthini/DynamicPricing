@@ -169,7 +169,8 @@ print(features)
 print( clf.feature_importances_)
 out = pd.DataFrame()
 #sample = pd.read_csv('../input/sample_submission.csv')
-out['test_id'] = test['test_id']
+#out['test_id'] = test['test_id']
+out['name']=test['name']
 out['price'] = predicted
 out['price'] = np.exp(out['price'])
 out.head()
@@ -202,6 +203,12 @@ def upload_file():
 		destination = "/".join([target, 'input.csv'])
 		f.save(destination)
 		return ("File Uploaded Successfully", 200)
+
+
+@app.route('/dataset')    
+def another_page():    
+  table = pd.DataFrame.from_csv("output.csv")
+  return render_template("view.html", data=table.to_html())
 
 
 if __name__ == '__main__':
